@@ -9,7 +9,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/inst
 ```
 
 
-![1](./icone.png)
+![1](./image.png)
 ![2](./media/2.png)
 ![3](./media/3.png)
 ![4](./media/4.png)
