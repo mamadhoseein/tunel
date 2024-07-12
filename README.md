@@ -13,3 +13,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/inst
 ![2](./m.png)
 ![3](./i.png)
 
+## چنل تلگرامی
+
+- [chanell](http://t.me/vpns_shop)
