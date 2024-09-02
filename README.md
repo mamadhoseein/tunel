@@ -6,7 +6,7 @@
 برای نصب اسکریپت از دستور زیر استفاده میکنیم!
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Rezagoodarzii/tunel/master/install.sh)
 ```
 **توضیحات :** برای برقراری تانل ها باید حتما هم در سرور ایران و هم خارج اجرا کنید.
 
