@@ -9,7 +9,7 @@
 bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/install.sh)
 ```
 
-** Update **
+** Update👇👇 **
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/installV2.sh)
 ```
