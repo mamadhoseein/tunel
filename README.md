@@ -8,6 +8,11 @@
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/install.sh)
 ```
+
+** آپدیت **
+```
+bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/installV2.sh)
+```
 **توضیحات :** برای برقراری تانل ها باید حتما هم در سرور ایران و هم خارج اجرا کنید.
 
 **توضیحات :** برای حذف اسکریپت از روی سرور گزینه 2 را انتخاب کنید و حذف کنید و بعد حذف کردن سرور را حتما ریبوت ```reboot``` نمایید.
