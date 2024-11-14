@@ -130,3 +130,4 @@ case $choice in
         echo "OK"
         echo -e "${CYAN}Exiting...${RESET}"
         exit 0
+;;
