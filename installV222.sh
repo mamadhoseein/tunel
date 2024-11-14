@@ -132,8 +132,6 @@ case $choice in
         exit 0
         fi
         ;;
-    
-        
         sudo iptables -A INPUT -p icmp -j DROP
 
         # Save iptables rules
