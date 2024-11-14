@@ -132,7 +132,7 @@ case $choice in
         exit 0
         fi
         ;;
-    3)
+    
         
         sudo iptables -A INPUT -p icmp -j DROP
 
