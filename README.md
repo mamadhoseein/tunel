@@ -33,7 +33,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/inst
 **ایپی لوکال پیشفرض ایران :** ```10.194.25.2```
 **ایپی لوکال پیشفرض خارج :** ```10.194.25.1```
 
-```**IRAN**``` ![4](./c.png)
+```**سرور ایران**```
+ ![4](./c.png)
 
 ```**KHAREJ**```
 ![5](./b.png)
