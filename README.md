@@ -25,7 +25,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/inst
 
 
 
-![1](./e.png)تو
+![1](./e.png)
 ![2](./m.png)
 ![3](./i.png)
 
@@ -33,13 +33,13 @@ bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/inst
 **ایپی لوکال پیشفرض ایران :** ```10.194.25.2```
 **ایپی لوکال پیشفرض خارج :** ```10.194.25.1```
 
-**IRAN**
+```**IRAN**```
 ![4](./c.png)
 
-**KHAREJ**
+```**KHAREJ**```
 ![5](./b.png)
 
-**PORT SSH**
+```**PORT SSH**```
 ![6](./k.png)
 ## چنل تلگرامی
 
