@@ -1,4 +1,4 @@
-# tunel
+![image](https://github.com/user-attachments/assets/81b4b7c9-5b03-4537-a56c-187a3afa07ae)# tunel
 
 **توضیحات :** لطفا قبل نصب حتما سیستم عامل سرور مجازی باید 22 باشد.
 
@@ -25,10 +25,21 @@ bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/inst
 
 
 
-![1](./e.png)
+![1](./e.png)تو
 ![2](./m.png)
 ![3](./i.png)
 
+** توضیحات : ** در این مرجله ایپی لوکالی ک توسط سرور ایجاد شده را وارد میکنید 
+** ایپی لوکال پیشفرض ایران : ** 10.194.25.2
+ایپی لوکال پیشفرض خارج : ** 10.194.25.1
+**IRAN**
+![3](./c.png)
+
+**KHAREJ**
+![3](./b.png)
+
+**PORT SSH**
+![3](./k.png)
 ## چنل تلگرامی
 
 - [chanell](http://t.me/vpns_shop)
