@@ -9,9 +9,13 @@
 bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/install.sh)
 ```
 
-** Update👇👇 **
+** Update V2👇👇 **
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/installV2.sh)
+```
+** Update V3👇👇 **
+```
+bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/installV3.sh)
 ```
 **توضیحات :** برای برقراری تانل ها باید حتما هم در سرور ایران و هم خارج اجرا کنید.
 
