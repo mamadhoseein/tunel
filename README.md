@@ -36,10 +36,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/mamadhoseein/tunel/master/inst
 ``` **سرورایران** ```
  ![4](./c.png)
 
-```**KHAREJ**```
+```**سرور خارج**```
 ![5](./b.png)
 
-```**PORT SSH**```
+```**پورت ssh**```
 ![6](./k.png)
 ## چنل تلگرامی
 
